@@ -36,7 +36,7 @@ Height: <span class="underline">3</span>
 <h2 id="usage"><a class="link" href="#usage">Usage</a></h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>Your program should behave per the example below. Assumed that the underlined text is what some user has typed.</p>
+<p>Your program should behave per the example below.</p>
 </div>
 <div class="listingblock">
 <div class="content">
