@@ -1,7 +1,5 @@
 <div id="content">
 <h1>Cash</h1>
-<div class="sect1">
-<h2 id="tldr"><a class="link" href="#tldr">tl;dr</a></h2>
 <div class="sectionbody">
 <div class="paragraph">
 <p>Implement a program that calculates the minimum number of coins required to give a user change.</p>
